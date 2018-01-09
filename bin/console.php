@@ -10,7 +10,7 @@ use Parentheses\Exception\BadSymbolException;
 
 //Checking the path is entered
 if (!isset($argv[1])) {
-    die("Please specify the path." . PHP_EOL . "Example: ./console.php path/to/file" . PHP_EOL);
+    die("Please specify the path." . PHP_EOL . "Example: bin/console.php input-example.txt" . PHP_EOL);
 }
 
 $path = $argv[1];
