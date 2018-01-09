@@ -2,13 +2,13 @@
  
  Пример использование библиотеки [spendmail/otus-parenthes](https://github.com/spendmail/otus-parenthes/), для определения, корректности последовательности скобок.
  
-##Установка
+## Установка
  
  ```
  composer install
  ```
  
-##Запуск
+## Запуск
 
  
  ```
