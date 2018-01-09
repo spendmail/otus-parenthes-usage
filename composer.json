@@ -1,0 +1,15 @@
+{
+    "name": "spendmail/parenthes-usage",
+    "description": "Using of spendmail/parenthes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "spendlively",
+            "email": "spendively@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "spendmail/parenthes": "dev-master"
+    }
+}
